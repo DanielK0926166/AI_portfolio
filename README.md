@@ -1,4 +1,4 @@
-# Python portfolio of Daniel Kiss
+# Artificial Intelligence portfolio of Daniel Kiss
 
 
 The index.ipynb page links to all projects.
