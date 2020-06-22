@@ -1,0 +1,2 @@
+data/DeepLearning/conv_net_data.zip filter=lfs diff=lfs merge=lfs -text
+data/DeepLearning/keras_data.zip filter=lfs diff=lfs merge=lfs -text
